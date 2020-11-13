@@ -1,0 +1,7 @@
+For: Es uno de los bucles de Javascript, se formula con for, seguida de paréntesis y  llaves. Dentro de los paréntesis van tres cosas. Primero, declaramos la variable de lo que va a repetir el bucle. Segundo,una expresión condicional, el ciclo va a continuar hasta que la declaración sea false. Tercero, incrementamos la variable (i++) Las tres declaraciones están separadas por un punto y coma.
+
+&&: "Y" O (AND) es un operador lógico, escrito por dos simbolos (&&), que lo que hace, es evaluar las dos expresiones y va a devolver "true" solamente si ambas son verdaderas, Si una o las dos expresiones son falsas, va a devolver "false"
+
+||: "Ó"/"OR" es otro operador, que determina si una de las expresiones es verdadera. Va a devolver "true" si una o ambas son verdaderas, y va a devolver "false" solamente si las dos son falsas.
+
+!: "NO"/"NOT" este operador va a devolver el valor booleano de manera opuesta a lo que se le indica, por ejemplo (!false, si esto no es falso, devolverá true, por que es lo contrario.)
